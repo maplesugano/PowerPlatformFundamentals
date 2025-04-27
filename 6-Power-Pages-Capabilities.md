@@ -2,6 +2,8 @@
 
 Microsoft Power Pages is a platform for creating, hosting, and administering modern external-facing business websites. Power Pages enable both low-code makers and professional developers to rapidly design, configure, and publish websites that function seamlessly across web browsers and devices.
 
+---
+
 # Explore Power Pages
 
 Power Pages provides you with:
