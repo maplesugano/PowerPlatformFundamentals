@@ -33,3 +33,24 @@ Model-driven applications are used as management applications. For example, when
 | Data source | Not Dataverse-driven | Dataverse-driven |
 | App purpose | Task or screen focused | Back office / process focused |
 | User Interface (UI) | Custom UI<br>Device integration<br>Easily embeddable | Responsive / consistent UI<br>User personalization<br>Data relationship navigation<br>Security trimming of UI |
+
+## Building a Canvas App
+
+The basic Power Apps creator journey to build a canvas app looks something like this:
+
+1. Identify a business need that Power Apps can address.
+2. Connect to any necessary data in your Power Apps.
+3. Design the app using controls, buttons, and an easy-to-use interface. Then your end user can interact with the data to accomplish the business need.
+4. Save and publish the app and test functionality.
+5. Once satisfied, share the app with end users to give them a better business process.
+
+## Building a Model-Driven App
+
+Model-driven apps in Power Apps are assembled with the point-and-click App Designer, which turns every choice you make into metadata.
+
+1. You pick the data layer — Dataverse tables, their columns, relationships, and choice fields
+2. Add the user-interface elements such as the site-map navigation, forms for editing records, and list views for displaying them. 
+3. Enrich the app with logic (business process flows, rules, or Power Automate flows) and visualisation components (charts, dashboards, or embedded Power BI).
+4. Once the foundations are in place, you refine each table's forms and views to show only what the scenario needs, and you can add new pages — full-page table views, dashboards, external links, web resources, or fully custom pages — via the **Add page** button. 
+5. Hitting Play lets you test instantly, while real-time co-authoring speeds team development and the built-in Copilot offers natural-language queries and AI suggestions inside the finished app.
+
