@@ -175,7 +175,7 @@ Not just the model-driven applications, but there are other components of Power 
 Azure services can be used with Power Platform to help modernise legacy systems, automate processes, and create advanced analytical solutions.
 Employ Azure API management and Azure Functions to connect custom APIs, which tap into your legacy systems. By using Azure-managed databases and a low-code approach to automate tasks, you can lower the overall solution costs.
 
-[!Azure PowerPlatform](./imgs/azure_powerplatform.png)
+![Azure PowerPlatform](./imgs/azure_powerplatform.png)
 
 The data flow:
 
